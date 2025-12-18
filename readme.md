@@ -47,13 +47,6 @@ jeu-du-moulin/
 python3 main.py
 ```
 
-## Interface
-- Pions orange
-- Pions bleus
-- Texte en haut de la fenêtre indiquant :
-        - le joueur actif
-        - la phase de jeu (placement, déplacement, vol, suppression)
-
 ## Concepts utilisés
 - Programmation événementielle
 - Gestion d’état de jeu
