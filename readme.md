@@ -24,6 +24,7 @@ Projet réalisé dans le cadre d’un apprentissage de la programmation et de la
 ---
 
 ## Structure du projet
+```text
 jeu-du-moulin/
 │
 ├── main.py # Programme principal
@@ -34,6 +35,7 @@ jeu-du-moulin/
 ├── etat_jeu.py # État du jeu (listes de pions, moulins)
 │
 └── README.md
+```
 
 ---
 
